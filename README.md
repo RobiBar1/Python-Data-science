@@ -1,5 +1,4 @@
-# project
-Data sicnce project HIT
-
-Python code of Data sicnce project for end of course "Data Sicnce" in Cumputer Since degree.
-in the code have alot of note's that explain what does each window's and function there.
+Data sicnce  proj that try to predict player win rate in LOL game by some choosen parameters.
+**ide**: Jupyter notebook.
+**Languages:** Python .
+**Libraries reflected in the project** 
